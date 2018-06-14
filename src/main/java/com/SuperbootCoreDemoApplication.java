@@ -1,3 +1,7 @@
+/**
+ * Copyright (c) 2017-2018 Tianxin.  All rights reserved. 广州天新网络科技有限公司 版权所有.
+ * 请勿修改或删除版权声明及文件头部.
+ */
 package com;
 
 import org.springframework.boot.SpringApplication;
